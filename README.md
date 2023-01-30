@@ -9,4 +9,5 @@ python ScanDir.py -h
 
 ### Usage
 To call for help write `python ScanDir.py -h` or `python ScanDir.py --help`
-![](/img/help.png)
+
+  ![](/img/help.png)
